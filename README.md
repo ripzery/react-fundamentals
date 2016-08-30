@@ -20,4 +20,4 @@ Each video is separate by branch start from video 2 to 17, so you can checkout a
    * 13-dynamically-generated-components: [React Fundamentals: Dynamically Generated Components](https://egghead.io/lessons/react-dynamically-generated-components)
    * 14-build-jsx-live-compiler: [React Fundamentals: Build a JSX Live Compiler](https://egghead.io/lessons/build-a-jsx-live-compiler)
    * 15-jsx-deep-dive: [React Fundamentals: JSX Deep Dive](https://egghead.io/lessons/jsx-deep-dive)
-   * 16-precompiled-JSX: [React Fundamentals: Precompile JSX](https://egghead.io/lessons/precompile-jsx)
+   * 16-precompiled-jsx: [React Fundamentals: Precompile JSX](https://egghead.io/lessons/precompile-jsx)
