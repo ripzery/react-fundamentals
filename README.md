@@ -1,8 +1,8 @@
 **This repository contains code from [egghead.io](https://egghead.io/courses/react-fundamentals) course.**
 
-I hope this is helpful for the student for follow the video.
+I hope this is helpful for the student who follows the course.
 
-each video is separate by branch start from video 2 to 17, so you can checkout and review individually.
+Each video is separate by branch start from video 2 to 17, so you can checkout and review individually.
 
 # Branch guide
    * 01-hello-world: [React Fundamentals: Hello World - First Component](https://egghead.io/lessons/react-hello-world-first-component)
