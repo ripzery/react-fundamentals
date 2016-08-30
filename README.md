@@ -15,7 +15,7 @@ Each video is separate by branch start from video 2 to 17, so you can checkout a
    * 08-component-lifecycle: [React Fundamentals: Component Lifecycle - Mounting Basics](https://egghead.io/lessons/react-component-lifecycle-mounting-basics)
    * 09-component-lifecycle-mounting-usage: [React Fundamentals: Component Lifecycle Mounting Usage](https://egghead.io/lessons/react-component-lifecycle-mounting-usage)
    * 10-component-lifecycle-updating: [React Fundamentals: Component Lifecycle Updating](https://egghead.io/lessons/react-component-lifecycle-updating)
-   * 11-higher-order-component-mixins: [React Fundamentals: Higher Order Component Mixings](https://egghead.io/lessons/react-react-fundamentals-higher-order-components-replaces-mixins)
+   * 11-higher-order-component-mixins: [React Fundamentals: Higher Order Component Mixins](https://egghead.io/lessons/react-react-fundamentals-higher-order-components-replaces-mixins)
    * 12-composable-components: [React Fundamentals: Composable Components](https://egghead.io/lessons/react-composable-components)
    * 13-dynamically-generated-components: [React Fundamentals: Dynamically Generated Components](https://egghead.io/lessons/react-dynamically-generated-components)
    * 14-build-jsx-live-compiler: [React Fundamentals: Build a JSX Live Compiler](https://egghead.io/lessons/build-a-jsx-live-compiler)
