@@ -28,28 +28,28 @@ Each video is separate by branch start from video 2 to 17, so you can checkout a
 3. Install required dependencies as following command : npm install react react-dom babel-loader babel-core babel-preset-es2015 babel-preset-react --save
 4. touch index.html App.js main.js webpack.config.js
 5. paste following json to webpack.config.js and done!
-    ```json
-    module.exports = {
-        entry: './main.js',
-        output: {
-            path: './',
-            filename: 'index.js'
-        },
-        devServer: {
-            inline: true,
-            port: 8888
-        },
-        module: {
-            loaders: [
-                {
-                    test: /\.js$/,
-                    exclude: /node_modules/,
-                    loader: 'babel',
-                    query: {
-                        presets: ['es2015', 'react']
-                    }
+```javascript
+module.exports = {
+    entry: './main.js',
+    output: {
+        path: './',
+        filename: 'index.js'
+    },
+    devServer: {
+        inline: true,
+        port: 8888
+    },
+    module: {
+        loaders: [
+            {
+                test: /\.js$/,
+                exclude: /node_modules/,
+                loader: 'babel',
+                query: {
+                    presets: ['es2015', 'react']
                 }
-            ]
-        }
+            }
+        ]
     }
-    ```
+}
+```
