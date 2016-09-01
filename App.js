@@ -26,7 +26,7 @@ class App extends React.Component {
     }
 
     render() {
-        console.log("rendering!")
+        console.log("rendering!");
         return <button onClick={this.update}>{this.state.val}</button>
     }
 }
@@ -41,14 +41,14 @@ class Wrapper extends React.Component {
     }
 
     unmount() {
-        ReactDOM.unmountComponentAtNode(<App />, document.getElementById("a"))
+        ReactDOM.unmountComponentAtNode(document.getElementById("a"))
     }
 
     render() {
         return (
             <div>
                 <button onClick={this.mount.bind(this)}>Mount</button>
-                <button onClick={this.mount.bind(this)}>Unmount</button>
+                <button onClick={this.unmount.bind(this)}>Unmount</button>
                 <div id="a"></div>
             </div>
         )
