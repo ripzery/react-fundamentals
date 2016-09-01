@@ -16,7 +16,6 @@ class App extends React.Component {
     componentWillMount() {
         this.setState({m: 2})
     }
-
     render() {
         console.log("rendering!");
         return (
