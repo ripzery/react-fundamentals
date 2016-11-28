@@ -25,8 +25,8 @@ Each video is separate by branch start from video 2 to 17, so you can checkout a
 # Setup by yourself
 1. Create a project folder for example "react-fundamental"
 2. run **npm init**
-3. Install required dependencies as following command : npm install react react-dom babel-loader babel-core babel-preset-es2015 babel-preset-react --save
-4. touch **index.html App.js main.js webpack.config.js**
+3. Install required dependencies as following command : **npm install react react-dom babel-loader babel-core babel-preset-es2015 babel-preset-react --save**
+4. Run command : **touch index.html App.js main.js webpack.config.js**
 5. paste following json to **webpack.config.js** and done!
 ```javascript
 module.exports = {
